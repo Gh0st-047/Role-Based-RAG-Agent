@@ -1,6 +1,11 @@
+fastapi
+uvicorn
+streamlit
+scikit-learn
 numpy
 pandas
-scikit-learn
+python-dotenv
 sentence-transformers
 langchain
 langchain-groq
+torch
