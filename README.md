@@ -44,7 +44,7 @@ app.py provides a clean, interactive Streamlit frontend.
 1. Clone the Repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Gh0st-047/Role-Based-RAG-Agent
 cd <your-project-directory>
 ```
 
